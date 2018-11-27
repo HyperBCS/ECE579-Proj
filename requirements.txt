@@ -1,0 +1,9 @@
+pyspark
+numpy
+ipython
+pandas
+nltk
+matplotlib
+seaborn
+praw
+configparser
