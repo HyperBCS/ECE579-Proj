@@ -28,7 +28,7 @@ reddit = praw.Reddit(client_id=client_id,
 
 headlines = set()
 
-for submission in reddit.subreddit('gaming').new(limit=None):
+for submission in reddit.subreddit('funny').new(limit=100):
     headlines.add(submission.title)
     display.clear_output()
     print(len(headlines))
