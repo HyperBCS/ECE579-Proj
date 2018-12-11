@@ -11,6 +11,7 @@ Final project for ECE 579
 
 
 **Step 1: Downloading Data**
+
 From the link provided above download any number of submission archives and extract them to a folder named "input" in the root directory of the project. This is the folder the program will read from.
 
 **Step 2: Installing requirements**
